@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+.wrapper {
+  height: 100vh;
+  background: url(pic_0.jpg);
+  background-size: cover;
+  padding-top: 240px;
+  box-sizing: border-box;
+}
+
+
+.description, .title {
+  font-family: 'Cinzel', serif;
+  color: white;
+  text-align: center;
+}
+
+.description {
+  font-family: 'Josefin Slab', serif;
+  position: center;
+}
